@@ -1,0 +1,5 @@
+export const RootActionTypes = {
+    INIT_ROOT_START: 'INIT_ROOT_START',
+    INIT_ROOT_ERROR: 'INIT_ROOT_ERROR',
+    INIT_ROOT_FINISH: 'INIT_ROOT_FINISH',
+};
